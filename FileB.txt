@@ -1,3 +1,4 @@
 Content of file B
 hhhh
 git reset HEAD
+khong lam gi dau
