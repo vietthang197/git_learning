@@ -1,2 +1,3 @@
 Content of file B
 hhhh
+git reset HEAD
