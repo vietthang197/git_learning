@@ -3,4 +3,8 @@ hhhh
 git reset HEAD
 khong lam gi dau
 kkk
+<<<<<<< HEAD
 ss
+=======
+hihi
+>>>>>>> 7e037cc7a18c87c2538181cb92ddffb24c23da8b
