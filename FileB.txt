@@ -1,3 +1,4 @@
 Content of file B
 hhhh
 B1
+xxx
