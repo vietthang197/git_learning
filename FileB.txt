@@ -3,3 +3,4 @@ hhhh
 git reset HEAD
 khong lam gi dau
 kkk
+ss
