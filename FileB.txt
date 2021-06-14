@@ -1,8 +1,14 @@
 Content of file B
 hhhh
+B1
+xxx
 git reset HEAD
 khong lam gi dau
 kkk
 hihi
 fix
 fix now
+
+ss
+
+hihi
